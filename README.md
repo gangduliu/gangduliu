@@ -7,9 +7,18 @@ I am a full-stack software engineer and CISA-certified auditor based in Shenzhen
 ### 🚀 Featured Projects
 
 #### 📈 [US ETF & Portfolio Analysis Dashboard](https://us-etf-dashboard-mbgpiwkqkt38tbatgqzdal.streamlit.app/)
+**Source Code**: [https://github.com/gangduliu/us-etf-dashboard](https://github.com/gangduliu/us-etf-dashboard)
+
 An interactive web application built with Python and Streamlit to analyze US ETFs, asset allocation strategies, and portfolio metrics. 
 * **Tech Stack:** Python, Streamlit, Pandas, Data Visualization
 * **Key Features:** Live metric calculations, dark-mode friendly UI, comparative performance analysis, and streamlined deployment.
+
+#### 🧘 [Meditation & Mindfulness Assistant](https://meditation-assistant-dwehzuqwnepthlak8sz2jz.streamlit.app/)
+**Source Code**: [https://github.com/gangduliu/meditation-assistant](https://github.com/gangduliu/meditation-assistant)
+
+A lightweight, focused, and elegant mindfulness and meditation tool built with **Streamlit**. It is designed to help users quickly relax their body and mind, regulate their breathing, and rediscover inner peace amidst a busy work and life schedule.
+* **Tech Stack:** Python, Streamlit
+* **Key Features:** Breathing & Mindfulness Regulation, Clean & Focused Interface, Zero Complex Dependencies.
 
 ---
 
@@ -22,7 +31,7 @@ An interactive web application built with Python and Streamlit to analyze US ETF
 
 ---
 
-### ☕ Support My Work
+### 🍋‍🟩 Support My Work
 
 If you find my projects or tools helpful, feel free to buy me a coffee! Your support helps keep my open-source tools running and motivates me to build more.
 
