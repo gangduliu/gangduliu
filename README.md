@@ -6,25 +6,25 @@ I am a full-stack software engineer and CISA-certified auditor based in Shenzhen
 
 ### 🚀 Featured Projects
 
-#### 📈 [US Stock Analysis Dashboard](https://us-etf-dashboard-mbgpiwkqkt38tbatgqzdal.streamlit.app/)
-**Source Code**: [us-etf-dashboard](https://github.com/gangduliu/us-etf-dashboard)
-**Introducation**: [US Stock Analysis Dashboard](https://buymeacoffee.com/qingning618/us-etf-dashboard)
+#### [US Stock Analysis Dashboard](https://us-etf-dashboard-mbgpiwkqkt38tbatgqzdal.streamlit.app/)
+* **Source Code**: [us-etf-dashboard](https://github.com/gangduliu/us-etf-dashboard)
+* **Introducation**: [US Stock Analysis Dashboard](https://buymeacoffee.com/qingning618/us-etf-dashboard)
 
-#### 📈 [US Stock Comparison Dashboard](https://us-etf-comparison-fwxajappnqdk2ek94i3kk7q.streamlit.app/)
-**Source Code**: [us-etf-comparison](https://github.com/gangduliu/us-etf-comparison)
-**Introducation**: [US Stock Comparison Dashboard](https://buymeacoffee.com/qingning618/us-stock-etf-comparison-analysis)
+#### [US Stock Comparison Dashboard](https://us-etf-comparison-fwxajappnqdk2ek94i3kk7q.streamlit.app/)
+* **Source Code**: [us-etf-comparison](https://github.com/gangduliu/us-etf-comparison)
+* **Introducation**: [US Stock Comparison Dashboard](https://buymeacoffee.com/qingning618/us-stock-etf-comparison-analysis)
 
-#### 📈 [US Stock Portfolio Management Dashboard](https://us-etf-dashboard-mbgpiwkqkt38tbatgqzdal.streamlit.app/)
-**Source Code**: [us-etf-portfolio-management](https://github.com/gangduliu/us-etf-portfolio-management)
-**Introducation**: [US Stock Portfolio Management Dashboard](https://buymeacoffee.com/qingning618/us-stock-portfolio-management-dashboard)
+#### [US Stock Portfolio Management Dashboard](https://us-etf-portfolio-management-mxqpyxamxnvnsptw2kuazu.streamlit.app/)
+* **Source Code**: [us-etf-portfolio-management](https://github.com/gangduliu/us-etf-portfolio-management)
+* **Introducation**: [US Stock Portfolio Management Dashboard](https://buymeacoffee.com/qingning618/us-stock-portfolio-management-dashboard)
 
 An interactive web application built with Python and Streamlit to analyze US ETFs, asset allocation strategies, and portfolio metrics. 
 * **Tech Stack:** Python, Streamlit, Pandas, Data Visualization
 * **Key Features:** Live metric calculations, dark-mode friendly UI, comparative performance analysis, and streamlined deployment.
 
 #### 🧘 [Meditation & Mindfulness Assistant](https://meditation-assistant-dwehzuqwnepthlak8sz2jz.streamlit.app/)
-**Source Code**: [meditation-assistant](https://github.com/gangduliu/meditation-assistant)
-**Introducation**: [US Stock Portfolio Management Dashboard](https://buymeacoffee.com/qingning618/meditation-assistant)
+* **Source Code**: [meditation-assistant](https://github.com/gangduliu/meditation-assistant)
+* **Introducation**: [US Stock Portfolio Management Dashboard](https://buymeacoffee.com/qingning618/meditation-assistant)
 
 A lightweight, focused, and elegant mindfulness and meditation tool built with **Streamlit**. It is designed to help users quickly relax their body and mind, regulate their breathing, and rediscover inner peace amidst a busy work and life schedule.
 * **Tech Stack:** Python, Streamlit
