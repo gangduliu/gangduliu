@@ -22,9 +22,9 @@ An interactive web application built with Python and Streamlit to analyze US ETF
 * **Tech Stack:** Python, Streamlit, Pandas, Data Visualization
 * **Key Features:** Live metric calculations, dark-mode friendly UI, comparative performance analysis, and streamlined deployment.
 
-#### 🧘 [Meditation & Mindfulness Assistant](https://meditation-assistant-dwehzuqwnepthlak8sz2jz.streamlit.app/)
+#### 🧘 [Meditation Assistant](https://meditation-assistant-dwehzuqwnepthlak8sz2jz.streamlit.app/)
 * **Source Code**: [meditation-assistant](https://github.com/gangduliu/meditation-assistant)
-* **Introducation**: [US Stock Portfolio Management Dashboard](https://buymeacoffee.com/qingning618/meditation-assistant)
+* **Introducation**: [Meditation Assistant](https://buymeacoffee.com/qingning618/meditation-assistant)
 
 A lightweight, focused, and elegant mindfulness and meditation tool built with **Streamlit**. It is designed to help users quickly relax their body and mind, regulate their breathing, and rediscover inner peace amidst a busy work and life schedule.
 * **Tech Stack:** Python, Streamlit
